@@ -1,4 +1,4 @@
-<div>![My Background](https://example.com/my-background.jpg)</div>
+
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ISURU-SAMPYH-SILVA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ISURU-SAMPYH-SILVA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ISURU-SAMPYH-SILVA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ISURU-SAMPYH-SILVA) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ISURU-SAMPYH-SILVA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ISURU-SAMPYH-SILVA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ISURU-SAMPYH-SILVA) 
 
