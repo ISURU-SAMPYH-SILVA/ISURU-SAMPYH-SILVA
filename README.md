@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+# Hello World!, I'm Isuru Sampth Silva! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=3000&pause=1000&color=1EF736&random=true&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+%F0%9F%92%BB%E2%9C%A8" alt="Typing Animation" />
@@ -27,21 +27,21 @@ I am an aspiring Software Engineer with a strong passion for <strong>technology<
 ### Programming Languages  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript,html,css" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" alt="Programming Languages" />
   </a>
 </p>
 
 ### Frameworks & Libraries  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,vue,nextjs,nodejs,flutter" alt="Frameworks & Libraries" />
+    <img src="https://skillicons.dev/icons?i=spring,react,vue,nextjs,nodejs," alt="Frameworks & Libraries" />
   </a>
 </p>
 
 ### Tools & Platforms  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode,idea,figma,postman,linux,mysql,postgresql,mongodb" alt="Tools & Platforms" />
+    <img src="https://skillicons.dev/icons?i=figma,postman,linux,mysql,,git,github,vscode,idea,postgresql,aws,azure,mongodb" alt="Tools & Platforms" />
   </a>
 </p>  
 
@@ -57,19 +57,8 @@ Here are a few things that define me beyond coding:
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=tokyonight&hide_border=true" alt="Isuru's GitHub Stats" height="165px" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Pradeep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />  
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isuru-Pradeep&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
-
 ## 📬 Contact Information  
 
 <p align="center">
