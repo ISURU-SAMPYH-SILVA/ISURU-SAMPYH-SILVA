@@ -1,9 +1,98 @@
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ISURU-SAMPYH-SILVA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ISURU-SAMPYH-SILVA)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ISURU-SAMPYH-SILVA)[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ISURU-SAMPYH-SILVA)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ISURU-SAMPYH-SILVA)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ISURU-SAMPYH-SILVA) 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# Hello World!, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=3000&pause=1000&color=1EF736&random=true&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+%F0%9F%92%BB%E2%9C%A8" alt="Typing Animation" />
+</p>
+
+<p align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bepmu6vu1yhnik5swvrbkmvl07wpkgs46mf15frc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" style="max-width: 100%; height: auto; width: auto;">
+</p>
+
+
+
+
+---
+
+## 🚀 About Me  
+
+<p align="justify">
+I am an aspiring Software Engineer with a strong passion for <strong>technology</strong>, <strong>innovation</strong>, and <strong>problem-solving</strong>. Currently completing my internship at <strong>PayMedia</strong>, where I contribute to building scalable <strong>fintech applications</strong> using <strong>Spring Boot</strong>, <strong>microservices</strong>, and <strong>cloud technologies</strong>. I specialize in developing robust backend systems, integrating modern web solutions with <strong>React</strong> and <strong>AWS</strong>, and crafting efficient, maintainable software that drives real-world impact.
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+### Programming Languages  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript,html,css" alt="Programming Languages" />
+  </a>
+</p>
+
+### Frameworks & Libraries  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,vue,nextjs,nodejs,flutter" alt="Frameworks & Libraries" />
+  </a>
+</p>
+
+### Tools & Platforms  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode,idea,figma,postman,linux,mysql,postgresql,mongodb" alt="Tools & Platforms" />
+  </a>
+</p>  
+
+---
+
+## 🌟 Beyond Code  
+
+Here are a few things that define me beyond coding:  
+- 🧠 I’m passionate about building **AI-powered solutions**, including my **Top 5 Final Year Project** — an AI-based interior color recommendation system.  
+- 🚀 I founded **Zephyr Matrix**, a tech solutions company focused on **AI**, **web development**, and **digital transformation**.  
+- 💡 I enjoy combining **engineering and creativity**, crafting unique **laser-cut products** and exploring the intersection of **technology and design**.  
+- 🌍 I love learning about **cloud technologies**, **system scalability**, and **software architecture**, always looking to push the boundaries of innovation.
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=tokyonight&hide_border=true" alt="Isuru's GitHub Stats" height="165px" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Pradeep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />  
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Isuru-Pradeep&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📬 Contact Information  
+
+<p align="center">
+  Let's connect and collaborate!  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isuru-pradeep/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/94766664562" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:pradeepisuru31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+   Stay curious, stay passionate, and build a better future.
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ISURU-SAMPYH-SILVA&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ISURU-SAMPYH-SILVA&theme=transparent&hide_border=false)<br/>
