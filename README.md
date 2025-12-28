@@ -83,10 +83,7 @@ Here are a few things that define me beyond coding:
    Stay curious, stay passionate, and build a better future.
 </p>
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ISURU-SAMPYH-SILVA&theme=transparent&hide_border=false&include_all_commits=true&count_private=true).<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ISURU-SAMPYH-SILVA&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ISURU-SAMPYH-SILVA&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=ISURU-SAMPYH-SILVA)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ISURU-SAMPYH-SILVA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -97,8 +94,5 @@ Here are a few things that define me beyond coding:
 ---
 [![](https://visitcount.itsvg.in/api?id=ISURU-SAMPYH-SILVA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ISURU-SAMPYH-SILVA) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ISURU-SAMPYH-SILVA) 
-
-  
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
