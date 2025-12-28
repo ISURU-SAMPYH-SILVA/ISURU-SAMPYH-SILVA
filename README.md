@@ -83,7 +83,12 @@ Here are a few things that define me beyond coding:
    Stay curious, stay passionate, and build a better future.
 </p>
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ISURU-SAMPYH-SILVA)
+## 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=ISURU-SAMPYH-SILVA&show_icons=true&theme=default&cache_seconds=60)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ISURU-SAMPYH-SILVA&theme=default&cache_seconds=60)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISURU-SAMPYH-SILVA&layout=compact&theme=default&cache_seconds=60)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ISURU-SAMPYH-SILVA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
